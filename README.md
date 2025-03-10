@@ -2,7 +2,9 @@
 
 A Docker container for real-time speech transcription using Faster Whisper.
 
-![Coding Vibe](./vibe-coding-is-real.jpg)
+<p align="center">
+    <img src="./vibe-coding-is-real.jpg" alt="Coding Vibe" style="width: 300px;">
+</p>
 
 ## Overview
 
