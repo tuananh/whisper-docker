@@ -1,6 +1,6 @@
 # Whisper Docker
 
-A Docker container for real-time speech transcription using Faster Whisper, using NVIDIA CUDA.
+A Docker container for real-time speech transcription using Faster Whisper.
 
 ![Coding Vibe](./vibe-coding-is-real.jpg)
 
